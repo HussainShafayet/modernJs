@@ -5,5 +5,5 @@ console.log([] == ![]);
 console.log([] === ![]);
 
 const a = 4;
-const b = "5";
+const b = "8";
 console.log('result', a+b);
