@@ -1,6 +1,6 @@
 let a = 10;
 const outer = ()=>{
-    let b = 15;
+    let b = 25;
     const inner = ()=>{
         let c = 25;
        console.log(a, b, c);
