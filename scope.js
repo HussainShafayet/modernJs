@@ -2,7 +2,7 @@ let a = 10;
 const outer = ()=>{
     let b = 256;
     const inner = ()=>{
-        let c = 676;
+        let c = 67;
        console.log(a, b, c);
     }
    console.log('c', c);
